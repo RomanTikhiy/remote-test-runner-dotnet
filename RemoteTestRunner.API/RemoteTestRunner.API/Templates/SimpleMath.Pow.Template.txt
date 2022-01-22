@@ -1,0 +1,10 @@
+﻿namespace RemoteTestRunner.Subject
+{
+    public class SimpleMath
+    {
+        public int Pow(int number, int degree)
+        {
+            <insertCodeHere>
+        }
+    }
+}
